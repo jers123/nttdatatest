@@ -1,0 +1,10 @@
+org\nttdatatest\test\service\ClienteService.class
+org\nttdatatest\test\TestApplication.class
+org\nttdatatest\test\model\Cliente.class
+org\nttdatatest\test\annotation\RestApi.class
+org\nttdatatest\test\utils\ReplyMessage.class
+org\nttdatatest\test\config\TestConfiguration.class
+org\nttdatatest\test\utils\SystemConstants.class
+org\nttdatatest\test\exception\ApiExceptionHandler.class
+org\nttdatatest\test\utils\Constants.class
+org\nttdatatest\test\controller\ClienteController.class
